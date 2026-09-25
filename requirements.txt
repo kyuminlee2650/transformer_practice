@@ -1,0 +1,7 @@
+matplotlib==3.11.2
+matplotlib-inline==0.2.2
+numpy==2.5.3
+sacremoses==0.2.0
+sentencepiece==0.2.2
+torch==2.14.0+cpu
+transformers==5.17.0
